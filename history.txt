@@ -1,0 +1,138 @@
+    1  mongo
+    2  mongod
+    3  mongod
+    4  mongo
+    5  mongo
+    6  mongo
+    7  ls
+    8  pwd
+    9  echo "hello mastermind"
+   10  ls /
+   11  ls
+   12  pwd
+   13  cd ..
+   14  pwd
+   15  cd
+   16  pwd
+   17  cd .
+   18  cd ..
+   19  pwd
+   20  cd 
+   21  pwd
+   22  cd ...
+   23  pwd
+   24  cd /
+   25  pwd
+   26  pwd
+   27  cd .
+   28  pwd
+   29  cd ../cd ..
+   30  cd ..|cd..
+   31  cd ../..
+   32  cd home
+   33  man
+   34  ma rmdir
+   35  man rmdir
+   36  man -w
+   37  man ls
+   38  cd ..
+   39  pwd
+   40  xd
+   41  cd
+   42  cls
+   43  cleare
+   44  clear
+   45  pwd
+   46  cd ..
+   47  ls
+   48  cd mofok/
+   49  ls
+   50  cd..
+   51  cd ..
+   52  pws
+   53  cd ..
+   54  ls
+   55  cd ..
+   56  pws
+   57  pwd
+   58  ls
+   59  ls
+   60  pwd
+   61  cd D:/
+   62  ls
+   63  cd Umuzi
+   64  ls
+   65  mkdir git-basic-exrcises
+   66  ls
+   67  rmdir git-basic-exrcises
+   68  ls
+   69  mkdir git-basic-exercises
+   70  cd git-basic-exercises
+   71  ls -a
+   72  ls
+   73  git init
+   74  ls
+   75  git status
+   76  touch README.md
+   77  ls -a
+   78  git status
+   79  git log
+   80  git add .
+   81  git status
+   82  git restore --staged README.md
+   83  git reset README.md
+   84  git status
+   85  git add .
+   86  git status
+   87  git commit -m "initial commit"
+   88  git log
+   89  nano README.md
+   90  nano README.md
+   91  cat README.md
+   92  git status
+   93  git add .
+   94  git status
+   95  git commit -m "second commit"
+   96  nano README.md
+   97  git add .
+   98  gti commit -m "third commit"
+   99  git status
+  100  git commit -m "third commit"
+  101  git log
+  102  git checkout 026f440ef25c4d9340e633d873201c9ecee398dc
+  103  cat README.md
+  104  git checkout main
+  105  git checkout main
+  106  git checkout git-basic-exercises
+  107  git switch
+  108  git switch main
+  109  git switch git-basic-exercises
+  110  pwd
+  111  cat README.md
+  112  git checkout main
+  113  git switch main
+  114  git branch
+  115  git checkout master
+  116  git log
+  117  git checkout 730d20c253b288c36f778e83cf41943634ff653c
+  118  cat README.md
+  119  git checkout master
+  120  cat README.md
+  121  git branch
+  122  git branch milkshake-flavours
+  123  git branch
+  124  git checkout milkshake-flavours
+  125  git branch
+  126  nano milkshakes.md
+  127  git status
+  128  git add .
+  129  git status
+  130  git commit -m "added initial flavours"
+  131  git log
+  132  git checkout master
+  133  git log
+  134  git branch  history
+  135  git checkout history
+  136  git log
+  137  git branch
+  138  history > history.txt
